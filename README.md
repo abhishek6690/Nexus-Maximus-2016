@@ -15,3 +15,6 @@ Process:
 Our team followed double diamond design thinking process to solve the given problem.
 
 **Files conatin all our research and designing material**
+
+**For more information about our team and Nexus Maximus 2016 please check below link**
+http://www.nexusmaximus.com/2016/09/10/novo-4-day-1/
